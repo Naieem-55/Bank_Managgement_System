@@ -50,9 +50,9 @@ g++ main.cpp -o bank_management.exe
 - **When logging in, the entered password is hashed and compared with the stored hash.**
 
  ## 📌 Future Enhancements
-🔐 **Advanced Encryption using OpenSSL**
-📊 ** Graphical User Interface (GUI) instead of CLI**
-📁 **Database Integration for persistent data storage**
+- ** Advanced Encryption using OpenSSL **
+- ** Graphical User Interface (GUI) instead of CLI **
+- ** Database Integration for persistent data storage **
 
 ## 🏆 Contributing
 I welcome contributions! Feel free to fork this repository, create a feature branch, and submit a pull request.
