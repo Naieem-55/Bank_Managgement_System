@@ -1,44 +1,41 @@
-﻿# Bank_Managgement_System
+# 🏦 Bank Management System
 
- 🏦 Bank Management System
+A **C++-based Bank Management System** that provides functionalities like creating accounts, deposits, withdrawals, and secure password protection with hashing.
 
- A C++-based Bank Management System that provides functionalities like creating accounts, deposits, withdrawals, and secure password protection with hashing.
+## 📸 Screenshots  
+![Console](https://raw.githubusercontent.com/Naieem-55/Bank_Managgement_System/main/bank.png)
 
-📸 Screenshots
+## 🚀 Features  
+✔️ **Create New Accounts** – Register new customers with essential details.  
+✔️ **Deposit & Withdraw Funds** – Secure money transactions with real-time balance updates.  
+✔️ **Password Protection** – Secure accounts using hashed passwords.  
+✔️ **Account Management** – Modify or delete accounts when needed.  
+✔️ **Check Account Details** – Display the account holder's name, balance, and account type.  
 
+## 🛠 Technologies Used  
+- **Programming Language**: C++  
+- **Libraries**: `<iostream>`, `<string>`, `<iomanip>`, `<sstream>`  
+- **Hashing Algorithm**: Custom SHA-256 alternative using C++ hashing  
 
+## 📜 How to Run 
+### 1️⃣ Clone the Repository
 
-
-🚀 Features
-✔️ Create New Accounts – Register new customers with essential details.
-✔️ Deposit & Withdraw Funds – Secure money transactions with real-time balance updates.
-✔️ Password Protection – Secure accounts using hashed passwords.
-✔️ Account Management – Modify or delete accounts when needed.
-✔️ Check Account Details – Display the account holder's name, balance, and account type.
-
-🛠 Technologies Used
-- Programming Language: C++
-- Libraries: <iostream>, <string>, <iomanip>, <sstream>
-- Hashing Algorithm: Custom SHA-256 alternative using C++ hashing
-
-  📜 How to Run
-1️⃣ Clone the Repository
-
-"""
+```bash
 git clone https://github.com/Naieem-55/Bank_Managgement_System.git
 cd Bank_Managgement_System
-"""
+```
 
-2️⃣ Compile the Code
+### 2️⃣ Compile the Code
 
-"""
+```bash
 g++ main.cpp -o bank_management.exe
-"""
+```
 
-3️⃣ Run the Program
-"""
+### 3️⃣ Run the Program
+
+```bash
 ./bank_management.exe
-"""
+```
 
 🎮 Usage Instructions
 - Run the program and choose an option from the Bank Menu.
