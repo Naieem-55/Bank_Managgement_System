@@ -37,25 +37,25 @@ g++ main.cpp -o bank_management.exe
 ./bank_management.exe
 ```
 
-🎮 Usage Instructions
-- Run the program and choose an option from the Bank Menu.
-- Create a new account with a secure password.
-- Use the account number and password to log in and manage funds.
-- Perform transactions like depositing and withdrawing money.
-- Check account details or modify and delete accounts as needed.
+##🎮 Usage Instructions 
+- **Run the program and choose an option from the Bank Menu.**
+- **Create a new account with a secure password.**
+- **Use the account number and password to log in and manage funds.**
+- **Perform transactions like depositing and withdrawing money.**
+- **Check account details or modify and delete accounts as needed.**
 
-  🔒 Security: Password Hashing
-- The system uses a simple hash function to secure passwords.
-- When an account is created, the password is hashed and stored instead of plaintext.
-- When logging in, the entered password is hashed and compared with the stored hash.
+ ## 🔒 Security: Password Hashing
+- **The system uses a simple hash function to secure passwords.**
+- **When an account is created, the password is hashed and stored instead of plaintext.**
+- **When logging in, the entered password is hashed and compared with the stored hash.**
 
-  📌 Future Enhancements
-🔐 Advanced Encryption using OpenSSL
-📊 Graphical User Interface (GUI) instead of CLI
-📁 Database Integration for persistent data storage
+ ## 📌 Future Enhancements
+🔐 **Advanced Encryption using OpenSSL**
+📊 ** Graphical User Interface (GUI) instead of CLI**
+📁 **Database Integration for persistent data storage**
 
-🏆 Contributing
+## 🏆 Contributing
 I welcome contributions! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
